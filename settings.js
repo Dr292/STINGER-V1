@@ -1,9 +1,9 @@
-const fs = require('fs')
+ioconst fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2349037524605"
-global.ownername = "ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑"
+global.ownernomer = "254746083017"
+global.ownername = "max john👑"
 global.ytname = "YT: esteams"
 global.socialm = "GitHub: paskito002"
 global.location = "Nigeria, Cross River, Calabar"
@@ -24,16 +24,16 @@ global.wm = "ES TEAMS."
 global.link = 'https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y'
 
 //custom prefix
-global.prefa = ['']
+global.prefa = ['?']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoRecording = true //auto recording
+global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = true //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
